@@ -19,6 +19,9 @@
     "nexus": "^1.3.0",
     "openai": "^4.22.1"
   },
+  "engines": {
+    "node": "18.15.0"
+  },
   "devDependencies": {
     "@prisma/client": "4.15.0",
     "@prisma/internals": "4.15.0",
